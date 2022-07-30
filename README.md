@@ -1,0 +1,1 @@
+Kubernetes resource manifests for the Globex web application 
